@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Control Center
+Icon=wahacc
+Exec=wahacc
+Terminal=false
+Type=Application
+Categories=GTK;System;Settings;
+Keywords=Preferences;Settings;
+Comment=Waha Control Center
+Name[ar]=مركز التحكم

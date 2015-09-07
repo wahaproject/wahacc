@@ -1,0 +1,313 @@
+msgid ""
+msgstr "" 
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: Waha Control Center\n"
+"POT-Creation-Date: 2013-09-14 12:00+0100\n"
+"PO-Revision-Date: 2014-02-15 22:20+0000\n"
+"Last-Translator: kraim <gkraim@gmail.com>\n"
+"Language-Team: English (http://www.transifex.com/waha-project/waha-control-center/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: tfoabout.caption
+msgctxt "tfoabout.caption"
+msgid "About"
+msgstr ""
+
+#: tfoabout.label1.caption
+msgctxt "tfoabout.label1.caption"
+msgid "Waha Control Center"
+msgstr ""
+
+#: tfoabout.label3.caption
+msgid " In the name of Allah, Most Gracious, Most Merciful "
+msgstr ""
+
+#: tfoabout.label4.caption
+msgid "Link: http://ojuba.org/wiki/waqf/license"
+msgstr ""
+
+#: tfoabout.speedbutton1.caption
+msgid "Close"
+msgstr ""
+
+#: tfoabout.tabsheet1.caption
+msgid "Version"
+msgstr ""
+
+#: tfoabout.tabsheet2.caption
+msgid "Contributors"
+msgstr ""
+
+#: tfoabout.tabsheet3.caption
+msgid "License"
+msgstr ""
+
+#: tform1.caption
+msgctxt "TFORM1.CAPTION"
+msgid "Waha Control Center"
+msgstr ""
+
+#: tform1.label10.caption
+msgctxt "TFORM1.LABEL10.CAPTION"
+msgid "Software Management"
+msgstr ""
+
+#: tform1.label11.caption
+msgid "Software center"
+msgstr ""
+
+#: tform1.label12.caption
+msgid "System Upgrade"
+msgstr ""
+
+#: tform1.label13.caption
+msgid "Software sources"
+msgstr ""
+
+#: tform1.label14.caption
+msgid "Full System Upgrade"
+msgstr ""
+
+#: tform1.label15.caption
+msgid "System Cleaner"
+msgstr ""
+
+#: tform1.label20.caption
+msgctxt "TFORM1.LABEL20.CAPTION"
+msgid "Hardware"
+msgstr ""
+
+#: tform1.label21.caption
+msgid "Hardware Information"
+msgstr ""
+
+#: tform1.label22.caption
+msgid "Device driver manager"
+msgstr ""
+
+#: tform1.label23.caption
+msgid "Joystick Preferences"
+msgstr ""
+
+#: tform1.label24.caption
+msgid "Printer Configuration"
+msgstr ""
+
+#: tform1.label30.caption
+msgctxt "TFORM1.LABEL30.CAPTION"
+msgid "Network && Internet"
+msgstr ""
+
+#: tform1.label31.caption
+msgid "Network Connections"
+msgstr ""
+
+#: tform1.label32.caption
+msgid "File share properties"
+msgstr ""
+
+#: tform1.label33.caption
+msgid "Remote Desktop Viewer"
+msgstr ""
+
+#: tform1.label34.caption
+msgid "Desktop Sharing Preferences"
+msgstr ""
+
+#: tform1.label35.caption
+msgid "Firewall"
+msgstr ""
+
+#: tform1.label40.caption
+msgctxt "TFORM1.LABEL40.CAPTION"
+msgid "System"
+msgstr ""
+
+#: tform1.label41.caption
+msgid "StartUp Applications"
+msgstr ""
+
+#: tform1.label42.caption
+msgid "System Log Viewer"
+msgstr ""
+
+#: tform1.label43.caption
+msgid "Font Manager"
+msgstr ""
+
+#: tform1.label44.caption
+msgid "Language Selection"
+msgstr ""
+
+#: tform1.label50.caption
+msgctxt "TFORM1.LABEL50.CAPTION"
+msgid "Local Disks"
+msgstr ""
+
+#: tform1.label51.caption
+msgid "Disk Utility"
+msgstr ""
+
+#: tform1.label52.caption
+msgid "Partition Editor"
+msgstr ""
+
+#: tform1.label53.caption
+msgid "Analyze disk usage"
+msgstr ""
+
+#: tform1.label54.caption
+msgid "Storage Device Manager"
+msgstr ""
+
+#: tform1.label55.caption
+msgid "NTFS Configuration Tool"
+msgstr ""
+
+#: tform1.label60.caption
+msgctxt "TFORM1.LABEL60.CAPTION"
+msgid "Account Preferences"
+msgstr ""
+
+#: tform1.label61.caption
+msgid "User Accounts"
+msgstr ""
+
+#: tform1.label62.caption
+msgid "Backup"
+msgstr ""
+
+#: tform1.label70.caption
+msgctxt "TFORM1.LABEL70.CAPTION"
+msgid "Miscellaneous"
+msgstr ""
+
+#: tform1.label71.caption
+msgid "Enable/Disable WINE"
+msgstr ""
+
+#: tform1.label72.caption
+msgid "Enable Multiarch"
+msgstr ""
+
+#: tform1.label73.caption
+msgid "Enable Bidi Console"
+msgstr ""
+
+#: tform1.label74.caption
+msgid "Enable Backports Upgrade"
+msgstr ""
+
+#: tform1.label82.caption
+msgctxt "TFORM1.LABEL82.CAPTION"
+msgid "Waha Control Center"
+msgstr ""
+
+#: tform1.menuitem1.caption
+msgid "File"
+msgstr ""
+
+#: tform1.menuitem3.caption
+msgid "Help"
+msgstr ""
+
+#: tform1.menuitem4.caption
+msgid "Quit"
+msgstr ""
+
+#: tform1.menuitem5.caption
+msgctxt "TFORM1.MENUITEM5.CAPTION"
+msgid "About"
+msgstr ""
+
+#: tform1.tabsheet1.caption
+msgctxt "tform1.tabsheet1.caption"
+msgid "Software Management"
+msgstr ""
+
+#: tform1.tabsheet2.caption
+msgctxt "tform1.tabsheet2.caption"
+msgid "Hardware"
+msgstr ""
+
+#: tform1.tabsheet3.caption
+msgctxt "tform1.tabsheet3.caption"
+msgid "Network && Internet"
+msgstr ""
+
+#: tform1.tabsheet4.caption
+msgctxt "tform1.tabsheet4.caption"
+msgid "System"
+msgstr ""
+
+#: tform1.tabsheet5.caption
+msgctxt "tform1.tabsheet5.caption"
+msgid "Local Disks"
+msgstr ""
+
+#: tform1.tabsheet6.caption
+msgctxt "tform1.tabsheet6.caption"
+msgid "Account Preferences"
+msgstr ""
+
+#: tform1.tabsheet7.caption
+msgctxt "tform1.tabsheet7.caption"
+msgid "Miscellaneous"
+msgstr ""
+
+#: unit1.rsarchenableq
+msgid "Do you want to enable i386 arch?"
+msgstr ""
+
+#: unit1.rsbackportsdisableq
+msgid "Do you want to Disable backports upgrade?"
+msgstr ""
+
+#: unit1.rsbackportsenableq
+msgid "Do you want to Enable backports upgrade?"
+msgstr ""
+
+#: unit1.rsbicondisableq
+msgid "Bidirectional Console already active, do you want to disable it?"
+msgstr ""
+
+#: unit1.rsbiconenablenotice
+msgid "Bidirectional Console enabled, please make sure that your Terminal allows run a command during login."
+msgstr ""
+
+#: unit1.rsbiconnotinstalled
+msgid "BiCon package is not installed!, Do you want to install it now?"
+msgstr ""
+
+#: unit1.rsbleachbitroot
+msgid "Do you want to clean root session?"
+msgstr ""
+
+#: unit1.rsnotice
+msgid "Notice"
+msgstr ""
+
+#: unit1.rspackagenotfound
+msgid " Not installed, Do you want to install it?"
+msgstr ""
+
+#: unit1.rswinealready32bit
+msgid "Your system is already 32 bit!, this option for 64 bit systems!"
+msgstr ""
+
+#: unit1.rswinedisableq
+msgid "Do you want to disable WINE?"
+msgstr ""
+
+#: unit1.rswineenableq
+msgid "Do you want to enable WINE?"
+msgstr ""
+
+#: unit1.rswinenotinstalled
+msgid "WINE not installed!, Do you want to install it now?"
+msgstr ""
+
