@@ -1,33 +1,40 @@
-unit about;
+unit About;
 
 {$mode objfpc}{$H+}
 
 interface
 
 uses
-  Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, ComCtrls,
-  StdCtrls, lclintf, Buttons;
+  Classes, Forms, Graphics, ComCtrls, StdCtrls, lclintf, ExtCtrls, LCLTranslator,
+  DefaultTranslator;
 
 type
 
-  { TFoAbout }
+  { TfrmAbout }
 
-  TFoAbout = class(TForm)
-    Label1: TLabel;
-    LaVersion: TLabel;
-    Label3: TLabel;
-    Label4: TLabel;
-    Memo1: TMemo;
-    Memo2: TMemo;
+  TfrmAbout = class(TForm)
+    Image1: TImage;
+    Image2: TImage;
+    lblSoftName: TLabel;
+    lblSoftName2: TLabel;
+    lblSoftVersion: TLabel;
+    lblBasmala: TLabel;
+    lblSoftDiscription: TLabel;
+    lblAuthorCopyright: TLabel;
+    lblNoWarranty: TLabel;
+    lblLicense1: TLabel;
+    lblLicense2: TLabel;
+    lblLicense3: TLabel;
+    meCredits: TMemo;
+    meLicense: TMemo;
     PageControl1: TPageControl;
-    SpeedButton1: TSpeedButton;
     TabSheet1: TTabSheet;
     TabSheet2: TTabSheet;
     TabSheet3: TTabSheet;
-    procedure FormCreate(Sender: TObject);
-    procedure Label4Click(Sender: TObject);
-    procedure PageControl1Change(Sender: TObject);
-    procedure SpeedButton1Click(Sender: TObject);
+    procedure FormShow(Sender: TObject);
+    procedure lblLicense2Click(Sender: TObject);
+    procedure lblLicense2MouseEnter(Sender: TObject);
+    procedure lblLicense2MouseLeave(Sender: TObject);
   private
     { private declarations }
   public
@@ -35,37 +42,42 @@ type
   end;
 
 var
-  FoAbout: TFoAbout;
+  frmAbout: TfrmAbout;
 
 implementation
-uses Unit1;
+
+uses Main, BidiUtils;
+
 {$R *.lfm}
 
-{ TFoAbout }
+{ TfrmAbout }
 
-procedure TFoAbout.PageControl1Change(Sender: TObject);
+procedure TfrmAbout.lblLicense2Click(Sender: TObject);
 begin
-
+  OpenURL('http://ojuba.org/waqf-2.0/رخصة_وقف_العامة');
 end;
 
-procedure TFoAbout.SpeedButton1Click(Sender: TObject);
+procedure TfrmAbout.FormShow(Sender: TObject);
 begin
-  Close;
-end;
-
-procedure TFoAbout.Label4Click(Sender: TObject);
-begin
-  OpenURL('http://ojuba.org/wiki/waqf/license');
-end;
-
-procedure TFoAbout.FormCreate(Sender: TObject);
-begin
+  lblSoftVersion.Caption := AppVersion;
+  BiDiMode := GetBiDiMode;
   if BiDiMode = bdRightToLeft then
   begin
-     FlipChildren(True);
+    FlipForm(Self);
+    doFlipChildren;
+    PageControl1.FlipChildren(True);
+    Self.Font.Name := 'Noto Kufi Arabic';
   end;
-  LaVersion.Caption:= TabSheet1.Caption+' '+version;
+end;
+
+procedure TfrmAbout.lblLicense2MouseEnter(Sender: TObject);
+begin
+  lblLicense2.Font.Color := TColor($D87639);
+end;
+
+procedure TfrmAbout.lblLicense2MouseLeave(Sender: TObject);
+begin
+  lblLicense2.Font.Color := TColor($F39621);
 end;
 
 end.
-

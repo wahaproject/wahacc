@@ -1,16 +1,29 @@
 #!/bin/bash
 echo Starting...
 if [[ $(lsb_release -cs) = "jessie" ]] || [[ $(lsb_release -cs) = "hijra" ]] ; then
-cat > /etc/apt/preferences.d/jessie-backports <<EOF
+	cat > /etc/apt/preferences.d/jessie-backports <<EOF
 Package: *
 Pin: release a=jessie-backports
 Pin-Priority: 500
 EOF
-cat > /etc/apt/sources.list.d/jessie-backports.list <<EOF
-deb http://httpredir.debian.org/debian jessie-backports main contrib non-free
-# deb-src http://httpredir.debian.org/debian jessie-backports main contrib non-free
+	cat > /etc/apt/sources.list.d/jessie-backports.list <<EOF
+deb http://deb.debian.org/debian jessie-backports main contrib non-free
+# deb-src http://deb.debian.org/debian jessie-backports main contrib non-free
 EOF
 fi
+
+if [[ $(lsb_release -cs) = "stretch" ]] || [[ $(lsb_release -cs) = "al-quds" ]] ; then
+	cat > /etc/apt/preferences.d/stretch-backports <<EOF
+Package: *
+Pin: release a=stretch-backports
+Pin-Priority: 500
+EOF
+	cat > /etc/apt/sources.list.d/stretch-backports.list <<EOF
+deb http://deb.debian.org/debian stretch-backports main contrib non-free
+# deb-src http://deb.debian.org/debian stretch-backports main contrib non-free
+EOF
+fi
+
 apt-get update
 echo Done.
 read -p "Press [Enter] key to exit..."

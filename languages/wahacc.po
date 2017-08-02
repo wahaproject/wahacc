@@ -1,6 +1,6 @@
 msgid ""
-msgstr "" 
-"Content-Type: text/plain; charset=UTF-8\n"
+msgstr ""
+"\"Content-Type: text/plain; charset=UTF-8\n"
 "Project-Id-Version: Waha Control Center\n"
 "POT-Creation-Date: 2013-09-14 12:00+0100\n"
 "PO-Revision-Date: 2014-02-15 22:20+0000\n"
@@ -12,302 +12,392 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: tfoabout.caption
-msgctxt "tfoabout.caption"
-msgid "About"
-msgstr ""
-
-#: tfoabout.label1.caption
-msgctxt "tfoabout.label1.caption"
-msgid "Waha Control Center"
-msgstr ""
-
-#: tfoabout.label3.caption
-msgid " In the name of Allah, Most Gracious, Most Merciful "
-msgstr ""
-
-#: tfoabout.label4.caption
-msgid "Link: http://ojuba.org/wiki/waqf/license"
-msgstr ""
-
-#: tfoabout.speedbutton1.caption
-msgid "Close"
-msgstr ""
-
-#: tfoabout.tabsheet1.caption
-msgid "Version"
-msgstr ""
-
-#: tfoabout.tabsheet2.caption
-msgid "Contributors"
-msgstr ""
-
-#: tfoabout.tabsheet3.caption
-msgid "License"
-msgstr ""
-
-#: tform1.caption
-msgctxt "TFORM1.CAPTION"
-msgid "Waha Control Center"
-msgstr ""
-
-#: tform1.label10.caption
-msgctxt "TFORM1.LABEL10.CAPTION"
-msgid "Software Management"
-msgstr ""
-
-#: tform1.label11.caption
-msgid "Software center"
-msgstr ""
-
-#: tform1.label12.caption
-msgid "System Upgrade"
-msgstr ""
-
-#: tform1.label13.caption
-msgid "Software sources"
-msgstr ""
-
-#: tform1.label14.caption
-msgid "Full System Upgrade"
-msgstr ""
-
-#: tform1.label15.caption
-msgid "System Cleaner"
-msgstr ""
-
-#: tform1.label20.caption
-msgctxt "TFORM1.LABEL20.CAPTION"
-msgid "Hardware"
-msgstr ""
-
-#: tform1.label21.caption
-msgid "Hardware Information"
-msgstr ""
-
-#: tform1.label22.caption
-msgid "Device driver manager"
-msgstr ""
-
-#: tform1.label23.caption
-msgid "Joystick Preferences"
-msgstr ""
-
-#: tform1.label24.caption
-msgid "Printer Configuration"
-msgstr ""
-
-#: tform1.label30.caption
-msgctxt "TFORM1.LABEL30.CAPTION"
-msgid "Network && Internet"
-msgstr ""
-
-#: tform1.label31.caption
-msgid "Network Connections"
-msgstr ""
-
-#: tform1.label32.caption
-msgid "File share properties"
-msgstr ""
-
-#: tform1.label33.caption
-msgid "Remote Desktop Viewer"
-msgstr ""
-
-#: tform1.label34.caption
-msgid "Desktop Sharing Preferences"
-msgstr ""
-
-#: tform1.label35.caption
-msgid "Firewall"
-msgstr ""
-
-#: tform1.label40.caption
-msgctxt "TFORM1.LABEL40.CAPTION"
-msgid "System"
-msgstr ""
-
-#: tform1.label41.caption
-msgid "StartUp Applications"
-msgstr ""
-
-#: tform1.label42.caption
-msgid "System Log Viewer"
-msgstr ""
-
-#: tform1.label43.caption
-msgid "Font Manager"
-msgstr ""
-
-#: tform1.label44.caption
-msgid "Language Selection"
-msgstr ""
-
-#: tform1.label50.caption
-msgctxt "TFORM1.LABEL50.CAPTION"
-msgid "Local Disks"
-msgstr ""
-
-#: tform1.label51.caption
-msgid "Disk Utility"
-msgstr ""
-
-#: tform1.label52.caption
-msgid "Partition Editor"
-msgstr ""
-
-#: tform1.label53.caption
-msgid "Analyze disk usage"
-msgstr ""
-
-#: tform1.label54.caption
-msgid "Storage Device Manager"
-msgstr ""
-
-#: tform1.label55.caption
-msgid "NTFS Configuration Tool"
-msgstr ""
-
-#: tform1.label60.caption
-msgctxt "TFORM1.LABEL60.CAPTION"
-msgid "Account Preferences"
-msgstr ""
-
-#: tform1.label61.caption
-msgid "User Accounts"
-msgstr ""
-
-#: tform1.label62.caption
-msgid "Backup"
-msgstr ""
-
-#: tform1.label70.caption
-msgctxt "TFORM1.LABEL70.CAPTION"
-msgid "Miscellaneous"
-msgstr ""
-
-#: tform1.label71.caption
-msgid "Enable/Disable WINE"
-msgstr ""
-
-#: tform1.label72.caption
-msgid "Enable Multiarch"
-msgstr ""
-
-#: tform1.label73.caption
-msgid "Enable Bidi Console"
-msgstr ""
-
-#: tform1.label74.caption
-msgid "Enable Backports Upgrade"
-msgstr ""
-
-#: tform1.label82.caption
-msgctxt "TFORM1.LABEL82.CAPTION"
-msgid "Waha Control Center"
-msgstr ""
-
-#: tform1.menuitem1.caption
-msgid "File"
-msgstr ""
-
-#: tform1.menuitem3.caption
-msgid "Help"
-msgstr ""
-
-#: tform1.menuitem4.caption
-msgid "Quit"
-msgstr ""
-
-#: tform1.menuitem5.caption
-msgctxt "TFORM1.MENUITEM5.CAPTION"
-msgid "About"
-msgstr ""
-
-#: tform1.tabsheet1.caption
-msgctxt "tform1.tabsheet1.caption"
-msgid "Software Management"
-msgstr ""
-
-#: tform1.tabsheet2.caption
-msgctxt "tform1.tabsheet2.caption"
-msgid "Hardware"
-msgstr ""
-
-#: tform1.tabsheet3.caption
-msgctxt "tform1.tabsheet3.caption"
-msgid "Network && Internet"
-msgstr ""
-
-#: tform1.tabsheet4.caption
-msgctxt "tform1.tabsheet4.caption"
-msgid "System"
-msgstr ""
-
-#: tform1.tabsheet5.caption
-msgctxt "tform1.tabsheet5.caption"
-msgid "Local Disks"
-msgstr ""
-
-#: tform1.tabsheet6.caption
-msgctxt "tform1.tabsheet6.caption"
-msgid "Account Preferences"
-msgstr ""
-
-#: tform1.tabsheet7.caption
-msgctxt "tform1.tabsheet7.caption"
-msgid "Miscellaneous"
-msgstr ""
-
-#: unit1.rsarchenableq
+#: main.rsarchenableq
+msgctxt "main.rsarchenableq"
 msgid "Do you want to enable i386 arch?"
 msgstr ""
 
-#: unit1.rsbackportsdisableq
+#: main.rsautoupenabledywantdisableq
+msgctxt "main.rsautoupenabledywantdisableq"
+msgid "Auto-update is already enabled, do you want to disable it?"
+msgstr ""
+
+#: main.rsbackportsdisableq
+msgctxt "main.rsbackportsdisableq"
 msgid "Do you want to Disable backports upgrade?"
 msgstr ""
 
-#: unit1.rsbackportsenableq
+#: main.rsbackportsenableq
+msgctxt "main.rsbackportsenableq"
 msgid "Do you want to Enable backports upgrade?"
 msgstr ""
 
-#: unit1.rsbicondisableq
+#: main.rsbicondisableq
+msgctxt "main.rsbicondisableq"
 msgid "Bidirectional Console already active, do you want to disable it?"
 msgstr ""
 
-#: unit1.rsbiconenablenotice
+#: main.rsbiconenablenotice
+msgctxt "main.rsbiconenablenotice"
 msgid "Bidirectional Console enabled, please make sure that your Terminal allows run a command during login."
 msgstr ""
 
-#: unit1.rsbiconnotinstalled
-msgid "BiCon package is not installed!, Do you want to install it now?"
-msgstr ""
-
-#: unit1.rsbleachbitroot
+#: main.rsbleachbitroot
+msgctxt "main.rsbleachbitroot"
 msgid "Do you want to clean root session?"
 msgstr ""
 
-#: unit1.rsnotice
+#: main.rsifyouusinglimitedtrafficq
+msgctxt "main.rsifyouusinglimitedtrafficq"
+msgid "If you are using a limited traffic internet connection, you should think carefully before enabling this option."
+msgstr ""
+
+#: main.rsnotice
+msgctxt "main.rsnotice"
 msgid "Notice"
 msgstr ""
 
-#: unit1.rspackagenotfound
-msgid " Not installed, Do you want to install it?"
+#: main.rspackagenotfound
+msgctxt "main.rspackagenotfound"
+msgid "not installed, Do you want to install it?"
 msgstr ""
 
-#: unit1.rswinealready32bit
+#: main.rswinealready32bit
+msgctxt "main.rswinealready32bit"
 msgid "Your system is already 32 bit!, this option for 64 bit systems!"
 msgstr ""
 
-#: unit1.rswinedisableq
+#: main.rswinedisableq
+msgctxt "main.rswinedisableq"
 msgid "Do you want to disable WINE?"
 msgstr ""
 
-#: unit1.rswineenableq
+#: main.rswineenableq
+msgctxt "main.rswineenableq"
 msgid "Do you want to enable WINE?"
 msgstr ""
 
-#: unit1.rswinenotinstalled
+#: main.rswinenotinstalled
+msgctxt "main.rswinenotinstalled"
 msgid "WINE not installed!, Do you want to install it now?"
+msgstr ""
+
+#: main.rsyouwantenableautoupdateq
+msgctxt "main.rsyouwantenableautoupdateq"
+msgid "Do you want to enable the automatic update?"
+msgstr ""
+
+#: main.rsywantopenlogsasroot
+msgid "Do you want to open logs viewer as a root?"
+msgstr ""
+
+#: tfrmabout.caption
+msgctxt "tfrmabout.caption"
+msgid "About"
+msgstr ""
+
+#: tfrmabout.lblauthorcopyright.caption
+msgctxt "tfrmabout.lblauthorcopyright.caption"
+msgid "Copyright © 2013 - 2017 Abdelkarim Guettaf."
+msgstr ""
+
+#: tfrmabout.lblbasmala.caption
+msgctxt "tfrmabout.lblbasmala.caption"
+msgid "In the name of Allah, Most Gracious, Most Merciful"
+msgstr ""
+
+#: tfrmabout.lbllicense1.caption
+msgctxt "tfrmabout.lbllicense1.caption"
+msgid "See the"
+msgstr ""
+
+#: tfrmabout.lbllicense2.caption
+msgctxt "tfrmabout.lbllicense2.caption"
+msgid "Waqf General Public License, version 2 or later"
+msgstr ""
+
+#: tfrmabout.lbllicense3.caption
+msgctxt "tfrmabout.lbllicense3.caption"
+msgid "for details."
+msgstr ""
+
+#: tfrmabout.lblnowarranty.caption
+msgctxt "tfrmabout.lblnowarranty.caption"
+msgid "This program comes with absolutely no warranty."
+msgstr ""
+
+#: tfrmabout.lblsoftdiscription.caption
+msgctxt "tfrmabout.lblsoftdiscription.caption"
+msgid "A simple control center for Waha Linux."
+msgstr ""
+
+#: tfrmabout.lblsoftname.caption
+msgctxt "tfrmabout.lblsoftname.caption"
+msgid "Waha Control Center"
+msgstr ""
+
+#: tfrmabout.lblsoftname2.caption
+msgctxt "tfrmabout.lblsoftname2.caption"
+msgid "Waha Control Center"
+msgstr ""
+
+#: tfrmabout.tabsheet1.caption
+msgctxt "tfrmabout.tabsheet1.caption"
+msgid "About"
+msgstr ""
+
+#: tfrmabout.tabsheet2.caption
+msgctxt "tfrmabout.tabsheet2.caption"
+msgid "Credits"
+msgstr ""
+
+#: tfrmabout.tabsheet3.caption
+msgctxt "tfrmabout.tabsheet3.caption"
+msgid "License"
+msgstr ""
+
+#: tfrmmain.caption
+msgctxt "tfrmmain.caption"
+msgid "Waha Control Center"
+msgstr ""
+
+#: tfrmmain.label10.caption
+msgctxt "tfrmmain.label10.caption"
+msgid "Software Management"
+msgstr ""
+
+#: tfrmmain.label11.caption
+msgctxt "tfrmmain.label11.caption"
+msgid "Software center"
+msgstr ""
+
+#: tfrmmain.label12.caption
+msgctxt "tfrmmain.label12.caption"
+msgid "System Update"
+msgstr ""
+
+#: tfrmmain.label13.caption
+msgctxt "tfrmmain.label13.caption"
+msgid "Software sources"
+msgstr ""
+
+#: tfrmmain.label14.caption
+msgctxt "tfrmmain.label14.caption"
+msgid "Full System Update"
+msgstr ""
+
+#: tfrmmain.label15.caption
+msgctxt "tfrmmain.label15.caption"
+msgid "System Cleaner"
+msgstr ""
+
+#: tfrmmain.label16.caption
+msgctxt "tfrmmain.label16.caption"
+msgid "Enable Auto Update"
+msgstr ""
+
+#: tfrmmain.label20.caption
+msgctxt "tfrmmain.label20.caption"
+msgid "Hardware"
+msgstr ""
+
+#: tfrmmain.label21.caption
+msgctxt "tfrmmain.label21.caption"
+msgid "Hardware Information"
+msgstr ""
+
+#: tfrmmain.label22.caption
+msgctxt "tfrmmain.label22.caption"
+msgid "Device driver manager"
+msgstr ""
+
+#: tfrmmain.label23.caption
+msgctxt "tfrmmain.label23.caption"
+msgid "Joystick Preferences"
+msgstr ""
+
+#: tfrmmain.label24.caption
+msgctxt "tfrmmain.label24.caption"
+msgid "Printer Configuration"
+msgstr ""
+
+#: tfrmmain.label30.caption
+msgctxt "tfrmmain.label30.caption"
+msgid "Network && Internet"
+msgstr ""
+
+#: tfrmmain.label31.caption
+msgctxt "tfrmmain.label31.caption"
+msgid "Network Connections"
+msgstr ""
+
+#: tfrmmain.label32.caption
+msgctxt "tfrmmain.label32.caption"
+msgid "File share properties"
+msgstr ""
+
+#: tfrmmain.label33.caption
+msgctxt "tfrmmain.label33.caption"
+msgid "Remote Desktop Viewer"
+msgstr ""
+
+#: tfrmmain.label34.caption
+msgctxt "tfrmmain.label34.caption"
+msgid "Desktop Sharing Preferences"
+msgstr ""
+
+#: tfrmmain.label35.caption
+msgctxt "tfrmmain.label35.caption"
+msgid "Firewall"
+msgstr ""
+
+#: tfrmmain.label40.caption
+msgctxt "tfrmmain.label40.caption"
+msgid "System"
+msgstr ""
+
+#: tfrmmain.label41.caption
+msgctxt "tfrmmain.label41.caption"
+msgid "StartUp Applications"
+msgstr ""
+
+#: tfrmmain.label42.caption
+msgctxt "tfrmmain.label42.caption"
+msgid "System Log Viewer"
+msgstr ""
+
+#: tfrmmain.label43.caption
+msgctxt "tfrmmain.label43.caption"
+msgid "Font Manager"
+msgstr ""
+
+#: tfrmmain.label44.caption
+msgctxt "tfrmmain.label44.caption"
+msgid "Language Selection"
+msgstr ""
+
+#: tfrmmain.label50.caption
+msgctxt "tfrmmain.label50.caption"
+msgid "Local Disks"
+msgstr ""
+
+#: tfrmmain.label51.caption
+msgctxt "tfrmmain.label51.caption"
+msgid "Disk Utility"
+msgstr ""
+
+#: tfrmmain.label52.caption
+msgctxt "tfrmmain.label52.caption"
+msgid "Partition Editor"
+msgstr ""
+
+#: tfrmmain.label53.caption
+msgctxt "tfrmmain.label53.caption"
+msgid "Analyze disk usage"
+msgstr ""
+
+#: tfrmmain.label55.caption
+msgctxt "tfrmmain.label55.caption"
+msgid "NTFS Configuration Tool"
+msgstr ""
+
+#: tfrmmain.label60.caption
+msgctxt "tfrmmain.label60.caption"
+msgid "Account Preferences"
+msgstr ""
+
+#: tfrmmain.label61.caption
+msgctxt "tfrmmain.label61.caption"
+msgid "User Accounts"
+msgstr ""
+
+#: tfrmmain.label62.caption
+msgctxt "tfrmmain.label62.caption"
+msgid "Backup"
+msgstr ""
+
+#: tfrmmain.label70.caption
+msgctxt "tfrmmain.label70.caption"
+msgid "Miscellaneous"
+msgstr ""
+
+#: tfrmmain.label71.caption
+msgctxt "tfrmmain.label71.caption"
+msgid "Enable/Disable WINE"
+msgstr ""
+
+#: tfrmmain.label72.caption
+msgctxt "tfrmmain.label72.caption"
+msgid "Enable Multiarch"
+msgstr ""
+
+#: tfrmmain.label73.caption
+msgctxt "tfrmmain.label73.caption"
+msgid "Enable Bidi Console"
+msgstr ""
+
+#: tfrmmain.label74.caption
+msgctxt "tfrmmain.label74.caption"
+msgid "Enable Backports Upgrade"
+msgstr ""
+
+#: tfrmmain.lblapptitle.caption
+msgctxt "tfrmmain.lblapptitle.caption"
+msgid "Waha Control Center"
+msgstr ""
+
+#: tfrmmain.menuitem1.caption
+msgctxt "tfrmmain.menuitem1.caption"
+msgid "File"
+msgstr ""
+
+#: tfrmmain.menuitem3.caption
+msgctxt "tfrmmain.menuitem3.caption"
+msgid "Help"
+msgstr ""
+
+#: tfrmmain.menuitem4.caption
+msgctxt "tfrmmain.menuitem4.caption"
+msgid "Quit"
+msgstr ""
+
+#: tfrmmain.menuitem5.caption
+msgctxt "tfrmmain.menuitem5.caption"
+msgid "About"
+msgstr ""
+
+#: tfrmmain.tabsheet1.caption
+msgctxt "tfrmmain.tabsheet1.caption"
+msgid "Software Management"
+msgstr ""
+
+#: tfrmmain.tabsheet2.caption
+msgctxt "tfrmmain.tabsheet2.caption"
+msgid "Hardware"
+msgstr ""
+
+#: tfrmmain.tabsheet3.caption
+msgctxt "tfrmmain.tabsheet3.caption"
+msgid "Network && Internet"
+msgstr ""
+
+#: tfrmmain.tabsheet4.caption
+msgctxt "tfrmmain.tabsheet4.caption"
+msgid "System"
+msgstr ""
+
+#: tfrmmain.tabsheet5.caption
+msgctxt "tfrmmain.tabsheet5.caption"
+msgid "Local Disks"
+msgstr ""
+
+#: tfrmmain.tabsheet6.caption
+msgctxt "tfrmmain.tabsheet6.caption"
+msgid "Account Preferences"
+msgstr ""
+
+#: tfrmmain.tabsheet7.caption
+msgctxt "tfrmmain.tabsheet7.caption"
+msgid "Miscellaneous"
 msgstr ""
 

@@ -1,6 +1,6 @@
 #!/bin/bash
-sudo echo Starting...
-sudo dpkg --add-architecture i386
-sudo apt-get update
+echo Starting...
+dpkg --add-architecture i386
+apt-get update
 echo Done.
 read -p "Press [Enter] key to exit..."

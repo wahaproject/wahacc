@@ -1,0 +1,15 @@
+{"version":1,"strings":[
+{"hash":4691652,"name":"tfrmabout.caption","sourcebytes":[65,98,111,117,116],"value":"About"},
+{"hash":4691652,"name":"tfrmabout.tabsheet1.caption","sourcebytes":[65,98,111,117,116],"value":"About"},
+{"hash":230661106,"name":"tfrmabout.lblsoftname.caption","sourcebytes":[87,97,104,97,32,67,111,110,116,114,111,108,32,67,101,110,116,101,114],"value":"Waha Control Center"},
+{"hash":83082558,"name":"tfrmabout.lblsoftdiscription.caption","sourcebytes":[65,32,115,105,109,112,108,101,32,99,111,110,116,114,111,108,32,99,101,110,116,101,114,32,102,111,114,32,87,97,104,97,32,76,105,110,117,120,46],"value":"A simple control center for Waha Linux."},
+{"hash":189114766,"name":"tfrmabout.lblauthorcopyright.caption","sourcebytes":[67,111,112,121,114,105,103,104,116,32,194,169,32,50,48,49,51,32,45,32,50,48,49,55,32,65,98,100,101,108,107,97,114,105,109,32,71,117,101,116,116,97,102,46],"value":"Copyright \u00A9 2013 - 2017 Abdelkarim Guettaf."},
+{"hash":234533806,"name":"tfrmabout.lblnowarranty.caption","sourcebytes":[84,104,105,115,32,112,114,111,103,114,97,109,32,99,111,109,101,115,32,119,105,116,104,32,97,98,115,111,108,117,116,101,108,121,32,110,111,32,119,97,114,114,97,110,116,121,46],"value":"This program comes with absolutely no warranty."},
+{"hash":163019445,"name":"tfrmabout.lbllicense1.caption","sourcebytes":[83,101,101,32,116,104,101],"value":"See the"},
+{"hash":262193442,"name":"tfrmabout.lbllicense2.caption","sourcebytes":[87,97,113,102,32,71,101,110,101,114,97,108,32,80,117,98,108,105,99,32,76,105,99,101,110,115,101,44,32,118,101,114,115,105,111,110,32,50,32,111,114,32,108,97,116,101,114],"value":"Waqf General Public License, version 2 or later"},
+{"hash":175228414,"name":"tfrmabout.lbllicense3.caption","sourcebytes":[102,111,114,32,100,101,116,97,105,108,115,46],"value":"for details."},
+{"hash":176926963,"name":"tfrmabout.tabsheet2.caption","sourcebytes":[67,114,101,100,105,116,115],"value":"Credits"},
+{"hash":230661106,"name":"tfrmabout.lblsoftname2.caption","sourcebytes":[87,97,104,97,32,67,111,110,116,114,111,108,32,67,101,110,116,101,114],"value":"Waha Control Center"},
+{"hash":49923525,"name":"tfrmabout.tabsheet3.caption","sourcebytes":[76,105,99,101,110,115,101],"value":"License"},
+{"hash":142360780,"name":"tfrmabout.lblbasmala.caption","sourcebytes":[73,110,32,116,104,101,32,110,97,109,101,32,111,102,32,65,108,108,97,104,44,32,77,111,115,116,32,71,114,97,99,105,111,117,115,44,32,77,111,115,116,32,77,101,114,99,105,102,117,108],"value":"In the name of Allah, Most Gracious, Most Merciful"}
+]}

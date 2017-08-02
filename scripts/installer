@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo echo Starting...
-sudo apt-get install $1
+echo Starting...
+apt-get install $1
 echo Done.
 read -p "Press [Enter] key to exit..."
